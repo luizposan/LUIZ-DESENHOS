@@ -1,0 +1,40 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,p{
+  text-align: center;
+}
+
+img {
+    height: 375px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+ p{
+  color:rgb(12, 12, 12)
+ }
+
+
+
+
+
+body {
+  background-color: rgb(247, 249, 250);
+}
+
+h1 {
+  color: rgb(13, 14, 13);
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+   
